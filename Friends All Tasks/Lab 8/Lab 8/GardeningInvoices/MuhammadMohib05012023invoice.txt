@@ -1,0 +1,17 @@
+************ Garden Services Invoice ************
+
+Rose the Gardener, 123 Main Street, Minneapolis. Telephone 612-123-4567
+
+Customer Name: MuhammadMohib
+Address of garden: Islamabad
+
+Date of service: 05/01/2023
+Size of garden: SMALL
+
+Lawn mowing service charge: $ 15.15
+Leaf raking service charge: $ 12.25
+
+Total: $ 27.4
+
+Please send payment to the address above.
+Thank you for your business.

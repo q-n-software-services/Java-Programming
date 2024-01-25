@@ -1,0 +1,3 @@
+John Doe
+blue
+2545
